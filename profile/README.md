@@ -1,5 +1,7 @@
 # ys-3dskit
 
+3DSKIT IS NOW EOL AS OF 2025-05-22.
+
 ys-3dskit is a set of tools to get you writing 3DS homebrew easier and faster.
 
 It comes with the following main features:
